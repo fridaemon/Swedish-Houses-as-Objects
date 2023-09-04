@@ -1,0 +1,65 @@
+﻿##grflangid 0x01
+
+#Main grf title and description
+STR_GRF_NAME            :Swedish Houses as Objects
+STR_GRF_DESCRIPTION     :{ORANGE}Version 1.1: September 9th, 2023; all credits come to Alexander "Irwe" Irwe. Coded by fridaemon
+STR_GRF_URL             :https://www.tt-forums.net/viewtopic.php?t=44360
+
+
+
+#Object classes
+
+STR_SHOB		:Swedish Houses as Objects
+
+
+
+
+
+#object name and description
+STR_swedish01		:Swedish Houses as Objects
+STR_swedish02		:Swedish Houses as Objects
+STR_swedish03		:Swedish Houses as Objects
+STR_swedish04		:Swedish Houses as Objects
+STR_swedish05		:Swedish Houses as Objects
+STR_swedish06		:Swedish Houses as Objects
+STR_swedish07		:Swedish Houses as Objects
+STR_swedish08		:Swedish Houses as Objects
+STR_swedish09		:Swedish Houses as Objects
+STR_swedish10		:Swedish Houses as Objects
+STR_swedish11		:Swedish Houses as Objects
+STR_swedish12		:Swedish Houses as Objects
+STR_swedish13		:Swedish Houses as Objects
+STR_swedish14		:Swedish Houses as Objects
+STR_swedish15		:Swedish Houses as Objects
+STR_swedish16		:Swedish Houses as Objects
+STR_swedish17		:Swedish Houses as Objects
+STR_swedish18		:Swedish Houses as Objects
+STR_swedish19		:Swedish Houses as Objects
+STR_swedish20		:Swedish Houses as Objects
+STR_swedish21		:Swedish Houses as Objects
+STR_swedish22		:Swedish Houses as Objects
+STR_swedish23		:Swedish Houses as Objects
+STR_swedish24		:Swedish Houses as Objects
+STR_swedish25		:Swedish Houses as Objects
+STR_swedish26		:Swedish Houses as Objects
+STR_swedish27		:Swedish Houses as Objects
+STR_swedish28		:Swedish Houses as Objects
+STR_swedish29		:Swedish Houses as Objects
+STR_swedish30		:Swedish Houses as Objects
+STR_swedish31		:Swedish Houses as Objects
+STR_swedish32		:Swedish Houses as Objects
+STR_swedish33		:Swedish Houses as Objects
+STR_swedish34		:Swedish Houses as Objects
+STR_swedish35		:Swedish Houses as Objects
+STR_swedish36		:Swedish Houses as Objects
+STR_swedish37		:Swedish Houses as Objects
+STR_swedish38		:Swedish Houses as Objects
+STR_swedish39		:Swedish Houses as Objects
+STR_swedish40		:Swedish Houses as Objects
+STR_swedish41		:Swedish Houses as Objects
+STR_swedish42		:Swedish Houses as Objects
+STR_swedish43		:Swedish Houses as Objects
+STR_swedish44		:Swedish Houses as Objects
+STR_swedish45		:Swedish Houses as Objects
+STR_swedish46		:Swedish Houses as Objects
+STR_swedish47_1		:Swedish Houses as Objects: 10 Items
